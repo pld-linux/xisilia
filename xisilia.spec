@@ -1,4 +1,4 @@
-Summary:	Cisilia´s GTK front-end
+Summary:	Cisilia's GTK front-end
 Summary(pl):	Interfejs GTK do Cisili
 Name:		xisilia
 Version:	1.0.1
@@ -13,12 +13,12 @@ Requires:	cisilia >= 0.7.3
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-This is cisilia´s GTK 1.2 front-end used to set the starting
+This is cisilia's GTK 1.2 front-end used to set the starting
 parameters and to analyze the password recovery task statistics.
 
 %description -l pl
-Interfejs graficzny do cisili umozliwiajacy ustawianie parametrów,
-przegladanie statystyk z "odtwarzania" hase³.
+Interfejs graficzny do cisili umo¿liwiaj±cy ustawianie parametrów,
+przegl±danie statystyk z "odtwarzania" hase³.
 
 %prep
 %setup -q
