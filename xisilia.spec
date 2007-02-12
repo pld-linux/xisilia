@@ -1,5 +1,5 @@
 Summary:	Cisilia's GTK+ front-end
-Summary(pl.UTF-8):   Interfejs GTK+ do Cisili
+Summary(pl.UTF-8):	Interfejs GTK+ do Cisili
 Name:		xisilia
 Version:	1.0.1
 Release:	0.1
